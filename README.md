@@ -1,16 +1,22 @@
 Cricket Matches Assignment
+
+
 Project Overview
 This project fetches cricket match data from an API and provides two key functionalities:
 
 Return the highest score in one innings with the corresponding team name.
 Count the number of matches where the combined score exceeds 300.
 Example Output
-bash
-Copy code
+
 Highest Score: 216 and Team Name: Australia [AUS]
 Number Of Matches with total 300 Plus Score: 4
+
+
+
 API Description
 API Endpoint: https://api.cuvora.com/car/partner/cricket-data
+
+
 
 The response returns a list of cricket matches, each containing the following fields:
 
