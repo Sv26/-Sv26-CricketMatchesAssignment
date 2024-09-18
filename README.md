@@ -31,7 +31,7 @@ The response includes:
 
 1. Clone the project:
     ```bash
-   
+   https://github.com/Sv26/-Sv26-CricketMatchesAssignment.git
     ```
 2. Import into IDE.
 3. Install dependencies via `pom.xml`.
